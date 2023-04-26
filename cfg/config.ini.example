@@ -1,0 +1,3 @@
+[Telegram]
+ApiToken = <token>
+ChatId = <chat id to send notifications>
